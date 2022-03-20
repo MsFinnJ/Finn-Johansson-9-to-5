@@ -16,7 +16,7 @@
     "url": "https://github.com/MsFinnJ/Finn-Johansson-9-to-5/issues"
   },
   "homepage": "https://github.com/MsFinnJ/Finn-Johansson-9-to-5#readme",
-  "devDependencies": {
+  "Dependencies": {
     "jest": "^27.5.1"
   }
 }
