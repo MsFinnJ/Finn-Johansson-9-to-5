@@ -1,0 +1,22 @@
+{
+  "name": "finn-johansson-9-to-5",
+  "version": "1.0.0",
+  "description": "Repo for Finn Johansson 9 to 5 music project",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MsFinnJ/Finn-Johansson-9-to-5.git"
+  },
+  "author": "Finn Johansson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MsFinnJ/Finn-Johansson-9-to-5/issues"
+  },
+  "homepage": "https://github.com/MsFinnJ/Finn-Johansson-9-to-5#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
