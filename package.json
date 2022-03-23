@@ -18,5 +18,13 @@
   "homepage": "https://github.com/MsFinnJ/Finn-Johansson-9-to-5#readme",
   "Dependencies": {
     "jest": "^27.5.1"
+  },
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+  {
+    "scripts": {
+      "test": "jest"
+    }
   }
 }
